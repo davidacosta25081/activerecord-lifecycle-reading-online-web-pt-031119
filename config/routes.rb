@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-routes :resources
+resources :posts
 end
